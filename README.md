@@ -14,6 +14,8 @@
 
 <br>
 
+<p>Research interest：“聚焦机器视觉与AI技术在半导体芯片制造、封装、测试以及显示和光伏制造等各个环节中的创新应用，泛半导体制造产业迈向智能化、高效化发展”</p>
+
 <p><em>---Welcome to join the LAB of Lin!---</em></p>
 
 </body>
